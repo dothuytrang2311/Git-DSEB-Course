@@ -1,2 +1,2 @@
-# Git-DSEB-Course
+# Logistic regression
 thuy trang
